@@ -1,0 +1,43 @@
+.discuss-title{
+    font-size: 85px;
+    padding: 10px 20px;
+}
+
+.your{
+    color: #fff;
+    margin-left: 120px;
+}
+.project{
+    color: #fff;
+    margin-left: 220px;
+}
+
+.contact-form{
+    padding: 10px;
+}
+
+.contact-form p{
+    font-size: 16px;
+}
+
+.contact-form input{
+    width: 500px;
+    background: #151515;
+    border: 1px solid #00ffb9;
+    margin: 10px 0;
+    padding: 15px 10px;
+}
+
+.contact-form input::placeholder{
+    padding: 10px;
+}
+
+.get-btn{
+    margin-top: 65px;
+    padding: 30px;
+    font-weight: bold;
+    border: none;
+    background-color: #00ffb9;
+    border-radius: 50%;
+    transform: rotate(20deg);
+}

@@ -1,0 +1,13 @@
+.content p{
+    font-size: 18px;
+    font-weight: 500;
+    max-width: 352px;
+}
+
+.projectStart{
+    border: none;
+    background-color: #00ffb9;
+    font-size: 12px;
+    padding: 10px 20px;
+    font-weight: 700;
+}

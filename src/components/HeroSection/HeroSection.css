@@ -1,0 +1,13 @@
+span{
+    color: #02ffb8;
+}
+.title{
+  font-size: 140px !important;
+  max-width: 1000px;
+  overflow: hidden;
+}
+
+a{
+    color: #fff !important;
+    margin: 3px 0px 3px 0;
+}

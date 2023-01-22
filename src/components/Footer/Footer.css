@@ -1,0 +1,17 @@
+.icon{
+    padding: 10px;
+}
+.icon i{
+    margin: 5px 5px;
+    border: 1px solid #00ffb9;
+    padding: 10px;
+    border-radius: 50%;
+}
+
+p{
+    font-size: 16px;
+}
+.text-white{
+    text-decoration: none;
+}
+

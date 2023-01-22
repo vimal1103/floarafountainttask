@@ -1,0 +1,19 @@
+.title{
+    overflow: hidden;
+    font-size: 95px ;
+}
+
+h5{
+    color: #fff;
+    overflow: hidden;
+}
+
+.card{
+    background-color: #151515 !important;
+}
+
+p{
+    font-size: 11px;
+    font-weight: lighter;
+    max-width: 60%;
+}

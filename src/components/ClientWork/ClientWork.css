@@ -1,0 +1,35 @@
+.work-title{
+    font-size: 95px;
+    text-align: end;
+    padding: 10px 0px;
+}
+
+.work-para{
+    text-align: end;
+    max-width: 100%;
+}
+
+.works{
+    overflow: hidden;
+}
+
+.card-1{
+    width: 500px;
+}
+
+.d-flex{
+    justify-content: space-between;
+    align-items: center;
+}
+
+.more{
+    padding: 10px 20px;
+    margin-top: 60px;
+}
+
+.more-works{
+    text-decoration: none;
+    padding: 10px 15px;
+    border-radius: 20px;
+    border: 1px solid #02ffb8;
+}
